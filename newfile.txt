@@ -1,1 +1,1 @@
-This is new text file
+update the the new file txt in the local repo
